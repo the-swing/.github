@@ -1,5 +1,5 @@
 ## PR Type
-> PR에 포함된 작업 내용을 채크하시오
+> PR에 포함된 작업 내용을 체크하시오
 
 <!-- Please check the one that applies to this PR using "x". -->
 
